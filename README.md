@@ -4,4 +4,4 @@ This repo has been moved to https://github.com/BretHudson/advent-of-code/tree/ma
 
 View the site at http://advent-of-code.brethudson.com/2015
 
-![Website preview](https://advent-of-code.brethudson.com/2015/og.png)
+![Website preview]([https://advent-of-code.brethudson.com/2015/og.png](https://advent-of-code.brethudson.com/2015/img/preview.png)https://advent-of-code.brethudson.com/2015/img/preview.png)
